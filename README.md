@@ -2,14 +2,6 @@
 
 Welcome to **Winshell**! This is a custom desktop environment that allows users to interact with applications directly from a simplified taskbar and desktop interface. Winshell provides the ability to run both console and Windows applications seamlessly, offering various features to manage and interact with running programs.
 
-## Features
-
-- **Runtime**: Launch console-based apps or full Windows applications directly from the taskbar or panel.
-- **Taskbar Integration**: Manage running applications with options to switch, minimize, maximize, or close them from the taskbar.
-- **App Embedding**: Applications can be embedded directly into a panel on the desktop, allowing for better integration and multitasking.
-- **Event Logging**: Monitor events related to application execution, such as process start, stop, and system actions.
-- **Customizable Hotkeys**: Quick access to frequently used applications via predefined keyboard shortcuts (e.g., Alt+F1 for Runtime Manager, Alt+F3 for File Explorer).
-  
 ## Requirements
 
 - **Windows OS**: The application is designed to run on Windows systems.
